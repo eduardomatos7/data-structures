@@ -57,6 +57,7 @@ O programa oferece uma solução interativa e visualmente intuitiva para encontr
 WIKIPÉDIA. Algoritmo de Prim. Disponível em: Algoritmo de Prim – Wikipédia, a enciclopédia livre (wikipedia.org).
 GOOGLE. Maps. Disponível em: https://www.google.com.br/maps.
 DEVMEDIA. Tkinter: Interfaces Gráficas em Python. DevMedia, https://www.devmedia.com.br/tkinter-interfaces-graficas-em-python/33956
+(O codigo foi baseado nesse pseudocodigo, tanto que foi utilizado caracters especiais tipo o PI para a representação ficar mais clara)
 
 
 ![image](https://github.com/Eduardo-Matos-Cin/Projeto-grafos---Estrutura-de-Dados/assets/144624798/933d1935-3f1c-4ecd-bb45-37db96931141)
