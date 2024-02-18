@@ -22,10 +22,10 @@ A base de dados consiste em uma lista de arestas e pesos, representando as conex
 A base de dados contém informações sobre a distância entre cidades de Pernambuco. Cada entrada na lista mostra uma rota entre duas cidades, junto com a distância entre elas. Podemos interpretar as distâncias entre as cidades como as arestas de um grafo, enquanto as cidades seriam os vértices desse grafo. Esses dados são úteis para planejar viagens, entender como as cidades estão conectadas e calcular distâncias entre diferentes lugares do estado. Em suma, é como ter um mapa das estradas de Pernambuco, mostrando como as cidades estão interligadas.
 
 # Implementação
-Algoritmo utilizado. 
+### Algoritmo utilizado. 
 Neste projeto, utilizamos o algoritmo de Prim.
 
-Desenvolvimento. 
+### Desenvolvimento. 
 Nós começamos definindo o que queríamos na nossa aplicação, que era calcular a
 Árvore Geradora Mínima de cidades em Pernambuco e exibi-la graficamente. Em
 Python, usamos Tkinter para a interface, NetworkX para grafos e Matplotlib para
@@ -41,11 +41,13 @@ ferramenta que não só calcula a Árvore Geradora Mínima, mas também dá uma 
 bem legal de como as estradas ligam as cidades de Pernambuco
 
 ## Bibliotecas utilizadas.
-pandas: Para o gerenciamento mais eficaz da base de dados.
+NetworkX: Utilizada para manipular e visualizar grafos.
 
-networkx: Para manipulação de grafos e cálculo da MST.
+Matplotlib: Utilizada para criar visualizações e animações.
 
-matplotlib.pyplot: Para visualização gráfica da MST.
+Pandas: Utilizada para ler os dados da planilha Excel.
+
+Tkinter: Utilizada para criar a interface gráfica do usuário (GUI).
 
 
 ## Conclusão
