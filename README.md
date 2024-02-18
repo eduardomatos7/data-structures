@@ -12,9 +12,9 @@ O algoritmo de Prim funciona selecionando repetidamente a aresta de menor peso q
 Universidade Federal de Pernambuco 
 Centro de Informática - CIn 
 
-## Relatório do projeto: Grupo #3.3
+# Relatório do projeto: Grupo #3.3
 
-# Contexto do problema
+## Contexto do problema
 O contexto do problema envolve a necessidade de calcular e visualizar a Árvore Geradora Mínima (MST) de um grafo representado por uma lista de arestas e seus pesos. Isso pode ser útil em diversas aplicações, como em sistemas de roteamento, redes de computadores, logística, entre outros.
 
 A base de dados consiste em uma lista de arestas e pesos, representando as conexões entre vértices de um grafo. Cada aresta é definida por uma origem, um destino e um peso associado. As cidades de Pernambuco são representadas como um grafo ponderado, onde as cidades são os vértices e as estradas que as conectam são as arestas. Cada aresta possui um peso associado, que geralmente representa a distância entre as cidades ou algum outro critério relevante, como o tempo de viagem .
@@ -40,15 +40,17 @@ conexões entre as cidades pernambucanas. Juntando tudo isso, criamos uma
 ferramenta que não só calcula a Árvore Geradora Mínima, mas também dá uma ideia
 bem legal de como as estradas ligam as cidades de Pernambuco
 
-# Bibliotecas utilizadas.
+## Bibliotecas utilizadas.
 pandas: Para o gerenciamento mais eficaz da base de dados.
+
 networkx: Para manipulação de grafos e cálculo da MST.
+
 matplotlib.pyplot: Para visualização gráfica da MST.
 
 
-# Conclusão
+## Conclusão
 O programa oferece uma solução interativa e visualmente intuitiva para encontrar a MST de um grafo. O usuário pode selecionar o vértice inicial e, em seguida, visualizar tanto a lista de arestas da MST quanto a representação gráfica dela. Isso permite uma compreensão clara das conexões mínimas necessárias para interligar todos os vértices do grafo, com potenciais aplicações em planejamento de rotas, redes de distribuição e muito mais.
 
-# Referências
+## Referências
 WIKIPÉDIA. Algoritmo de Prim. Disponível em: Algoritmo de Prim – Wikipédia, a enciclopédia livre (wikipedia.org).
 GOOGLE. Maps. Disponível em: https://www.google.com.br/maps.
