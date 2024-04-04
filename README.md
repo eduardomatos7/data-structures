@@ -1,4 +1,4 @@
-# Projeto-grafos---Estrutura-de-Dados
+# data-structures
 Neste projeto, será criada uma base de dados composta por diferentes locais de Pernambuco, modelados como vértices de um grafo, e as distâncias entre eles representadas como arestas, com pesos correspondentes às distâncias reais.
 O objetivo é construir uma base de dados real e pública, acessível a qualquer pessoa, que possa ser utilizada para diversos fins, como estudos de redes de transporte, otimização de rotas, análise de conectividade entre regiões, entre outros.
 Para criar a base de dados, serão utilizadas informações disponíveis publicamente, como aquelas fornecidas por órgãos governamentais ou provedores de dados geoespaciais confiáveis.
